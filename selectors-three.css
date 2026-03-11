@@ -16,4 +16,23 @@ th {
   text-align: left;
 }
 
-/* Add styles here */
+a:link {
+  color:orange
+}
+
+a:visited {
+  color: green;
+}
+
+#topline{
+  color: red;
+}
+
+.first{
+  font-size: 150%;
+}
+
+tr:nth-child(even) {
+  background-color: #333333;
+  color: white;
+}

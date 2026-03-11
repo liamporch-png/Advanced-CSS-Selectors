@@ -1,4 +1,21 @@
 body {
   font: 1.2em / 1.5 sans-serif;
 }
-/* Add styles here */
+
+#special{
+  background-color: yellow;
+}
+
+.alert.stop{
+  background-color: red;
+}
+
+.alert.go{
+  background-color: green;
+}
+
+
+.alert{
+  border: 2px solid grey;
+}
+
